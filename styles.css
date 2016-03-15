@@ -1,0 +1,17 @@
+h1 {
+  color: gray;
+  text-align: center;
+  font-family: Geneva;
+  font-size: 300%;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  font-family: fantasy;
+}
+
+p {
+  color: gray;
+
+}
